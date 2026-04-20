@@ -38,11 +38,12 @@ To complete the "Multi-Switch" analysis, I utilized **Tshark** to capture contro
 - **Protocol Compliance:** Fully operational implementation of the OpenFlow 1.3 standard.
 
 ## Outputs
-<img width="764" height="487" alt="image" src="https://github.com/user-attachments/assets/305b721b-d573-49f5-ad3d-2cc3c9d233fc" />
+<img width="701" height="354" alt="image" src="https://github.com/user-attachments/assets/bda37a16-31d8-4159-8956-998c6880655f" />
+<img width="1061" height="712" alt="image" src="https://github.com/user-attachments/assets/0db7f963-cad5-4bb1-9102-bf4e307a7b1f" />
+<img width="1107" height="398" alt="image" src="https://github.com/user-attachments/assets/40eb6a59-0830-4712-b62c-d3f54b5388b8" />
 
-<img width="1246" height="589" alt="image" src="https://github.com/user-attachments/assets/6e5203ae-12c2-4f4e-8b54-c3c263c3bad4" />
 
-<img width="1364" height="576" alt="image" src="https://github.com/user-attachments/assets/c26ebd06-4166-4feb-b4d1-6090c234d30c" />
+
 
 
 
