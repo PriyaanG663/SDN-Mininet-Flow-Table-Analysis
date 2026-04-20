@@ -37,6 +37,16 @@ To complete the "Multi-Switch" analysis, I utilized **Tshark** to capture contro
 - **Centralized Visibility:** Real-time console logs showing the status of flow entries for all switches in the network.
 - **Protocol Compliance:** Fully operational implementation of the OpenFlow 1.3 standard.
 
+## Outputs
+<img width="764" height="487" alt="image" src="https://github.com/user-attachments/assets/305b721b-d573-49f5-ad3d-2cc3c9d233fc" />
+
+<img width="1246" height="589" alt="image" src="https://github.com/user-attachments/assets/6e5203ae-12c2-4f4e-8b54-c3c263c3bad4" />
+
+<img width="1364" height="576" alt="image" src="https://github.com/user-attachments/assets/c26ebd06-4166-4feb-b4d1-6090c234d30c" />
+
+
+
+
 ---
 **Author:** Priyaan
 **Institution:** PES University
